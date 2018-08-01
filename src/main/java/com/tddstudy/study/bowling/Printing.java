@@ -30,7 +30,7 @@ public class Printing {
     public void titleFrames(){
         String titleFrmae = "| NAME |";
         for(int i=0; i< 10 ; i++){
-            title = title +
+            //title = title +
         }
     }
 
